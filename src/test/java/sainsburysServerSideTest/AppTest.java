@@ -4,6 +4,9 @@
 package sainsburysServerSideTest;
 
 import org.junit.Test;
+
+import sainsburys.scrape.app.App;
+
 import static org.junit.Assert.*;
 
 public class AppTest {
